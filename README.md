@@ -1,9 +1,7 @@
 # ✨ Khanh Nguyen ✨
 
 **`Technical Computer Science student at UTwente, The Netherlands`**
-
-
-- I'm Khanh from Vietnam, and I am doing a Bachelor's Technical Computer Science at the University of Twente. I have deep passion AI, specifically Machine Learning and Computer Vision. I also enjoy designing and writing softwares.
+I'm Khanh from Vietnam, and I am doing a Bachelor's Technical Computer Science at the University of Twente. I have deep passion AI, specifically Machine Learning and Computer Vision. I also enjoy designing and writing softwares.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
