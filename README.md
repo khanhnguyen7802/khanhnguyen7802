@@ -2,13 +2,14 @@
 
 **`Technical Computer Science student at UTwente, The Netherlands`**
 
-- 🔭 I’m currently studying at **University of Twente**
 
-- 📫 How to reach me **khanhnguyen7802@gmail.com**
+- I'm Khanh from Vietnam, and I am doing a Bachelor's Technical Computer Science at the University of Twente. I have deep passion AI, specifically Machine Learning and Computer Vision. I also enjoy designing and writing softwares.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nguyenhoangnamkhanh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-icon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nguyenhoangnamkhanh/" target="blank"><img align="left" src="linkedin-icon.svg" alt="linkedin-icon" width="50" height=40/></a>
+
+<a href="mailto:khanhnguyen7802@gmail.com"><img algin="left" src="gmail-icon.svg" height="40" width="50"></a>
 
 </p>
 
