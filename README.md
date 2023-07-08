@@ -1,15 +1,17 @@
 # ✨ Khanh Nguyen ✨
 
 **`Technical Computer Science student at UTwente, The Netherlands`**
-I'm Khanh from Vietnam, and I am doing a Bachelor's Technical Computer Science at the University of Twente. I have deep passion AI, specifically Machine Learning and Computer Vision. I also enjoy designing and writing softwares.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nguyenhoangnamkhanh/" target="blank"><img align="left" src="linkedin-icon.svg" alt="linkedin-icon" width="50" height=40/></a>
-
-<a href="mailto:khanhnguyen7802@gmail.com"><img algin="left" src="gmail-icon.svg" height="40" width="50"></a>
-
+<p> 
+  I'm Khanh from Vietnam, and I am doing a Bachelor's Technical Computer Science at the University of Twente. I have deep passion AI, specifically Machine Learning and Computer Vision. I also enjoy designing and writing softwares.
 </p>
+
+<h3>Connect with me:</h3>
+<div align="left">
+<a href="https://www.linkedin.com/in/nguyenhoangnamkhanh/" target="blank"><img src="linkedin-icon.svg" alt="linkedin-icon" align="left" width="50" height=40/></a>
+
+<a href="mailto:khanhnguyen7802@gmail.com"><img src="gmail-icon.svg" height=40 width=50 ></a>
+
+</div>
 
 --- 
 
