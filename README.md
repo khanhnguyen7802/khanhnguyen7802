@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .contacts {
-      display:flex;
-      flex-direction: row; 
-      justify-content: center;
-    }
-
-    details {
-      border: 1px solid #aaa;
-      border-radius: 4px;
-      padding: 0.5em 0.5em 0;
-    }
-
-    summary {
-      font-weight: bold;
-      margin: -0.5em -0.5em 0;
-      padding: 0.5em;
-    }
-
-    details[open] {
-      padding: 0.5em;
-    }
-
-    details[open] summary {
-      border-bottom: 1px solid #aaa;
-      margin-bottom: 0.5em;
-    }
-
-  </style>
-</head>
-
-<body>
 <a href="#" target="_blank">
   <img src="svg/khanhnguyen.svg" width="1200" alt="khanhnguyen" />
 </a>
