@@ -37,12 +37,12 @@
   <img src="svg/khanhnguyen.svg" width="1200" alt="khanhnguyen" />
 </a>
 
-# ✨ Khanh Nguyen ✨
+# Khanh Nguyen
 
 **`Technical Computer Science student at University of Twente, Netherlands`**
 
 <p> 
-  I'm Khanh from Vietnam, and I am doing a Bachelor in Technical Computer Science at the University of Twente. I have deep passion AI, specifically Machine Learning and Computer Vision. I also enjoy designing and writing softwares.
+  I'm Khanh from Vietnam, and I am doing a Bachelor in Technical Computer Science at the University of Twente. I have deep passion for Data, specifically building pipelines to automate dataflows. I also enjoy designing and writing softwares.
 </p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -50,7 +50,19 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Java logo" title="Python" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Databricks%20-282C34?logo=databricks&logoColor=#FF3621" alt="databricks logo" title="databricks" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=black" alt="Github logo" title="Github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=red" alt="Git logo" title="Git" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postgresql-282C34?logo=postgresql&logoColor=#4169E1" alt="Postgresql logo" title="Postgresql" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Apache Spark-282C34?logo=apachespark&logoColor=#E25A1C" alt="Apache Spark logo" title="ApacheSpark" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
@@ -60,16 +72,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow&logoColor=#FF6F00" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=red" alt="Git logo" title="Git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=black" alt="Github logo" title="Github" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
+
 
 <h2 align="center">🏠 Where to find me 🏠</h2>
 
@@ -82,21 +85,22 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khanhnguyen-email" />
   </a>
 
-  <a href="tel:+31687105933" target="blank">
+  <!-- <a href="tel:+31687105933" target="blank">
     <img src="https://img.icons8.com/?size=100&id=CCDYqb5KK5vI&format=png&color=000000" alt="phone-number" />
-  </a>
+  </a> -->
 </div>
 
-<h2 align='center'>
+<!-- <h2 align='center'>
   <details> 
   
-  <summary>📘 All Projects</summary>
+  <summary>📘 All Projects</summary> -->
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-<a href="https://github.com/khanhnguyen7802?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<!-- <a href="https://github.com/khanhnguyen7802?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
 
-  </details>
-</h2>
+  <!-- </details>
+</h2> -->
+
 </body>
 </html>
